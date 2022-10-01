@@ -1,5 +1,4 @@
 import React from 'react'
-
 const Menu = () => {
   return (
     <div className="menu">
@@ -24,5 +23,4 @@ const Menu = () => {
     </div>
   )
 }
-
 export default Menu
